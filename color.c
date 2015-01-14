@@ -9,5 +9,4 @@ void main()
 
 	printf("\nGreen\n");
         printf("\nBlue\n");
-        printf("\nRed\n");
 }
