@@ -15,6 +15,7 @@ void main()
 	printf("\nRed\n");
 	
 	printf("\nBlack\n");
+	printf("\nYellow\n");
 
 	printf("\nOrange\n");
 
