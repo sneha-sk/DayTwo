@@ -12,7 +12,8 @@ void main()
 
 
 	printf("\nWhite\n");
-
 	printf("\nRed\n");
+
+	printf("\nOrange\n");
 
 }
