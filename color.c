@@ -7,4 +7,5 @@ void main()
 	printf("\nBeige\n");
         printf("\nGrey\n");
         printf("\nBlue\n");
+        printf("\nRed\n");
 }
