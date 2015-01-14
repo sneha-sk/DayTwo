@@ -3,5 +3,4 @@ void main()
 {
 	printf("\nAnimals\n\n");
 	printf("\nTiger\n");
-	printf("\nLion\n");
 }
