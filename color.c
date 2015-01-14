@@ -5,4 +5,5 @@ void main()
 	printf("Olive\n");
 	printf("\n---------\n");
 	printf("\nBeige\n");
+        printf("\nGrey\n");
 }
