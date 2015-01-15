@@ -7,4 +7,6 @@ void main()
 	printf("\nKangaroo\n");
 	printf("\nDog\n");
 	printf("\nCat\n");
+	
+	printf("\nPanther\n");
 }
