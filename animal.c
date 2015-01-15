@@ -10,4 +10,6 @@ void main()
 	
 	printf("\nPanther\n");
 	printf("\nCheetah\n");
+
+	printf("\nPig\n");
 }
