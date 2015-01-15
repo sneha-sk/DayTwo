@@ -9,4 +9,5 @@ void main()
 	printf("\nCat\n");
 	
 	printf("\nPanther\n");
+	printf("\nCheetah\n");
 }
