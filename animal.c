@@ -11,5 +11,8 @@ void main()
 	printf("\nPanther\n");
 	printf("\nCheetah\n");
 
+	printf("\nOrangutan\n");
+	printf("\nOwl\n");
+
 	printf("\nPig\n");
 }
